@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: rgb(253, 253, 253);
+    font-family: Verdana, sans-serif;
+}
+
+
+
+.links h2
+{
+    color: gray;
+    
+}
+
+ul
+{   
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 1px;
+}
+
+li
+{
+    margin-right: 12px;
+}
+
+.links a
+{
+    text-decoration: none;
+
+
+}
